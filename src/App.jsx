@@ -12,7 +12,7 @@ import { useEffect, useState } from "react";
 import CountryList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
-import { CitiesProvider } from "./contexts/citiesContext";
+import { CitiesProvider } from "./contexts/citiesContext.jsx";
 
 CitiesProvider;
 
